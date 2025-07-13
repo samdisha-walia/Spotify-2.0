@@ -34,7 +34,7 @@ A full-featured Spotify Clone built using **React.js**, **Redux**, **Tailwind CS
 
 ```
 
-Spotify-Clone/
+Spotify-2.0/
 ├── public/
 │   └── assets/
 ├── src/
@@ -67,7 +67,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Samiksha-Walia/Spotify2.0.git
+git clone https://github.com/samdisha-walia/Spotify-2.0.git
 
 # Navigate to the folder
 cd Spotify2.0
@@ -102,8 +102,8 @@ npm run dev
 
 ## 👤 Author
 
-**Samiksha Walia**
-[GitHub](https://github.com/Samiksha-Walia) • [LinkedIn](https://linkedin.com/in/samiksha-walia) 
+**Samdisha Walia**
+[GitHub](https://github.com/Samdisha-Walia) • [LinkedIn](https://linkedin.com/in/samdisha-walia) 
 
 
 

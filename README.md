@@ -37,7 +37,7 @@ A full-featured **Spotify Clone** built using **React.js**, **Redux Toolkit**, *
 ## 📁 Project Structure
 
 ```plaintext
-Spotify2.0/
+Spotify-2.0/
 ├── backend/
 │   ├── helper/         
 │   │   ├── generateToken.js
@@ -55,9 +55,9 @@ Spotify2.0/
 │   ├── package.json 
 ├── frontend/
 |   ├── public/
-|   │   └── assets/             # Static images, music, icons
+|   │   └── assets/             
 |   ├── src/
-|   │   ├── components/         # UI components
+|   │   ├── components/        
 |   │   │   ├── Card/
 |   │   │   ├── Footer/
 |   │   │   ├── Home/
@@ -71,12 +71,12 @@ Spotify2.0/
 |   │   │   ├── Display.jsx  
 |   │   │   ├── Navbar.jsx 
 |   │   ├── data/
-|   │   ├── Layout/             # Page layouts
-|   │   ├── states/             # Redux + Context logic
+|   │   ├── Layout/             
+|   │   ├── states/             
 |   │   │   ├── store.js
 |   │   │   ├── Context.js
 |   │   │   └── Actors/
-|   │   ├── App.jsx             # Main app component
+|   │   ├── App.jsx            
 |   │   ├── index.css
 |   │   ├── main.jsx
 |   ├── tailwind.config.js
@@ -97,7 +97,7 @@ Spotify2.0/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Samiksha-Walia/Spotify2.0.git
+git clone https://github.com/samdisha-walia/Spotify-2.0.git
 
 # Navigate into the project directory
 cd Spotify2.0
@@ -134,8 +134,8 @@ Your app will be live at `http://localhost:5173`.
 
 ## 👤 Author
 
-**Samiksha Walia**
-[GitHub](https://github.com/Samiksha-Walia) • [LinkedIn](https://linkedin.com/in/samiksha-walia) 
+**Samdisha Walia**
+[GitHub](https://github.com/Samdisha-Walia) • [LinkedIn](https://linkedin.com/in/samdisha-walia) 
 
 
 
