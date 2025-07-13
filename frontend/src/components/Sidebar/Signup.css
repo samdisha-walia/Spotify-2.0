@@ -1,0 +1,22 @@
+.signup_bar {
+    background: linear-gradient(90deg, #af2896, #509bf5);
+    width: 100%;
+    left: 0;
+    z-index: 50!important;
+}
+
+.signup_button {
+    padding: 8px 16px; 
+    width: 120px;
+    border-radius: 20px; /* Adjust the radius if needed */
+    font-size: 14px; /* Make sure font size is consistent */
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    transition: transform 0.2s;
+    text-align: center;
+}
+
+.signup_button:hover {
+    transform: scale(1.05);
+}

@@ -1,0 +1,41 @@
+.card{
+    background-color: var(--card_sec_bg);
+}
+.card:hover {
+    background: var(--card_bg);
+
+    cursor: pointer;
+    transition: all 0.2s ease-in;
+    /* box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1); */
+}
+/*
+.play_btn {
+    
+}
+.card:hover .play_btn {
+    display: block!important;
+    transition: all .3s ease-in;
+    
+}*/
+.play_btn {
+  position: absolute;
+  top: 80%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  background-color: #1db954; /* Spotify green */
+  border-radius: 50%;
+  width: 48px;      /* Equal width and height */
+  height: 48px;
+  padding: 12px;
+  display: none !important; /* Initially hidden */;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease;
+}
+
+
+.card:hover .play_btn {
+    display: block!important;
+    transition: all .3s ease-in;
+    
+}
